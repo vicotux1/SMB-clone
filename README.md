@@ -1,4 +1,4 @@
-# SMB-clone
+# Super Mario Bros
 
 Clone of Super Mario Bros, World 1-1 through 1-4. Made with Unity.
 
@@ -13,23 +13,7 @@ Clone of Super Mario Bros, World 1-1 through 1-4. Made with Unity.
 
 
 ***
-### Links
-#### Download executable (Windows and Mac OS)
-https://www.mediafire.com/folder/nmqxb40qt4c1u/SMB+clone+by+linhdvu14
 
-Mirror: 
-https://www.dropbox.com/sh/w1ja3sw1tjq3e21/AAAbx8rreejFNpu5F5f5fy0aa?dl=0
-
-#### References
-World maps: http://www.nesmaps.com/maps/SuperMarioBrothers/SuperMarioBrothers.html
-
-Mario physics: http://s276.photobucket.com/user/jdaster64/media/smb_playerphysics.png.html
-
-Sprites: http://www.mariouniverse.com/sprites/nes/smb
-
-Sounds: http://themushroomkingdom.net/media/smb/wav
-
-***
 ### Screenshots
 <img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/main-menu.jpg" width="500" alt="Main Menu Screenshot" title="Main Menu">
 
