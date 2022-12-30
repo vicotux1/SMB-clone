@@ -14,6 +14,8 @@ Clone of Super Mario Bros, World 1-1 through 1-4. Made with Unity.
 
 ***
 
+### 28/12/22 Update to Widescreen 
+***
 ### Licencia Español
 
 Licencia BSD de 2 cláusulas
