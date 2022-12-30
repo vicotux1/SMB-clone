@@ -14,17 +14,30 @@ Clone of Super Mario Bros, World 1-1 through 1-4. Made with Unity.
 
 ***
 
-### Screenshots
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/main-menu.jpg" width="500" alt="Main Menu Screenshot" title="Main Menu">
+### Licencia Español
 
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/lvl-start.jpg" width="500" alt="Level Start Screenshot" title="Level Start Screen">
+Licencia BSD de 2 cláusulas
 
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/world1-1.jpg" width="500" alt="World 1-1 Screenshot" title="World 1-1">
+Copyright (c) 2020, Linh Vu
+Reservados todos los derechos.
 
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/world1-1-underground.jpg" width="500" alt="World 1-1 Underground Screenshot" title="World 1-1 Underground">
+Redistribución y uso en formato fuente y binario, con o sin
+modificación, están permitidas siempre que se cumplan las siguientes condiciones:
 
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/world1-2.jpg" width="500" alt="World 1-2 Screenshot" title="World 1-2">
+1. Las redistribuciones del código fuente deben conservar el aviso de derechos de autor anterior, este
+    lista de condiciones y el siguiente descargo de responsabilidad.
 
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/world1-3.jpg" width="500" alt="World 1-3 Screenshot" title="World 1-3">
+2. Las redistribuciones en forma binaria deben reproducir el aviso de derechos de autor anterior,
+    esta lista de condiciones y el siguiente descargo de responsabilidad en la documentación
+    y/u otros materiales provistos con la distribución.
 
-<img src="https://github.com/linhdvu14/SMB-clone/blob/master/Screenshots/world1-4.jpg" width="500" alt="World 1-4 Screenshot" title="World 1-4">
+ESTE SOFTWARE ES PROPORCIONADO POR LOS TITULARES DE LOS DERECHOS DE AUTOR Y LOS CONTRIBUYENTES "TAL CUAL"
+Y CUALQUIER GARANTÍA EXPLÍCITA O IMPLÍCITA, INCLUYENDO, ENTRE OTRAS, LA
+LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD E IDONEIDAD PARA UN FIN DETERMINADO SON
+RECHAZADO. EN NINGÚN CASO EL TITULAR DE LOS DERECHOS DE AUTOR O LOS COLABORADORES SERÁN RESPONSABLES
+POR CUALQUIER DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENTE
+DAÑOS (INCLUYENDO, ENTRE OTROS, LA ADQUISICIÓN DE BIENES DE SUSTITUCIÓN O
+SERVICIOS; PÉRDIDA DE USO, DATOS O BENEFICIOS; O INTERRUPCIÓN DEL NEGOCIO) SIN EMBARGO
+CAUSADA Y SOBRE CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA EN CONTRATO, RESPONSABILIDAD ESTRICTA,
+O AGRAVIO (INCLUYENDO NEGLIGENCIA O DE OTRO TIPO) QUE SURJA DE CUALQUIER MANERA DEL USO
+DE ESTE SOFTWARE, INCLUSO SI SE ADVIERTE DE LA POSIBILIDAD DE DICHO DAÑO.
